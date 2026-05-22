@@ -172,3 +172,22 @@ Check out our resources for additional guidance too before opening an issue:
 This library is licensed under the [Apache 2.0 License](./documents/LICENSE).
 
 Latest released version: v1.42.1
+
+<!-- PLATFORM_SUPPORT_START -->
+# Platform Support
+
+## Tier 1 — Fully Supported & Tested in CI
+
+| Platform | Architecture |
+|----------|--------------|
+| al2 | x32 |
+| macOS | x64, ARM |
+| windows | x86 |
+
+## Tier 2 — Supported (Not Tested in CI)
+
+| Platform | Architecture |
+|----------|--------------|
+| windows-11 | check |
+
+<!-- PLATFORM_SUPPORT_END -->
