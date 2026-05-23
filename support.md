@@ -4,12 +4,13 @@
 
 | Name | Architecture |
 |------|--------------|
+| al2 | x64 |
 | al2 | x86 |
 | manyLinux2014 | x64 |
-| manyLinux2014 | x86 |
 
 ### Tier 2
 
 | Name | Architecture |
 |------|--------------|
 | macOS | x86 |
+| manyLinux2014 | x86 |
