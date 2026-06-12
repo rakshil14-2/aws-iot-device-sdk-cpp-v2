@@ -172,3 +172,36 @@ Check out our resources for additional guidance too before opening an issue:
 This library is licensed under the [Apache 2.0 License](./documents/LICENSE).
 
 Latest released version: v1.43.1
+
+<!-- PLATFORM_SUPPORT_START -->
+# Platform Support
+
+## Tier 1 — Fully Supported & Tested in CI
+
+| Platform | Architecture |
+|----------|--------------|
+| al2 | x64 |
+| alpine-3.16 | x64, x86, armv6, armv7, arm64 |
+| macos-15.7 | arm64 |
+| manylinux2014 | x64, x86 |
+| raspbian-bullseye | arm |
+| ubuntu-22.04 | x86 |
+| windows-11 | Win32, x64, arm64 |
+
+## Tier 2 — Supported (Not Tested in CI)
+
+| Platform | Architecture |
+|----------|--------------|
+| macOS-14 | arm64, x64 |
+
+## Supported Tools
+
+| Name | Version | Platforms |
+|------|---------|-----------|
+| C++ | 11+ |  |
+| Cmake | 3.9+ | All |
+| clang | 6+ | linux |
+| gcc | 4.8+ | linux |
+| msvc | 15+ |  |
+
+<!-- PLATFORM_SUPPORT_END -->
